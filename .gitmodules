@@ -1,0 +1,6 @@
+[submodule "layers/childA"]
+	path = layers/childA
+	url = https://github.com/aminenajahi/childA.git
+[submodule "layers/childB"]
+	path = layers/childB
+	url = https://github.com/aminenajahi/childB.git
